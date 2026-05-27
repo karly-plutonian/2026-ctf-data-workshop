@@ -10,8 +10,7 @@ In this track, you will use [Pluto](https://pluto.bio) — a cloud-based bioinfo
 
 <!-- TODO: Flesh out with specific datasets and analysis types once the Pluto workspace is configured -->
 
-- Access NF Portal datasets via Synapse
-- Import data into a Pluto workspace
+- Search for NF Portal datasets from Synapse in the CTF Pluto workspace
 - Run bioinformatic analyses using Pluto's guided interface
 - Visualize and interpret results
 
